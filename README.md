@@ -140,3 +140,4 @@ To run the project from source, see here: [Build and run from source](./SOURCE.m
   * Endless testing and reporting issues
 * Apple
   * for macOS and many of the kexts, frameworks and other binaries we reimplemented into newer OSes
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
